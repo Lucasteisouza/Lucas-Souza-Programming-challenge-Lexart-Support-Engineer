@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "jest": "^29.6.1"
+  },
+  "name": "lucas-souza-programming-challenge-lexart-support-engineer",
+  "description": "The current repository is part of the selection process for a Suppor Engineer position at Lexart. It was developed according to instructions using vanilla JavaScript and Jest as a test suite.",
+  "version": "1.0.0",
+  "main": "challenge.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucasteisouza/Lucas-Souza-Programming-challenge-Lexart-Support-Engineer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucasteisouza/Lucas-Souza-Programming-challenge-Lexart-Support-Engineer/issues"
+  },
+  "homepage": "https://github.com/Lucasteisouza/Lucas-Souza-Programming-challenge-Lexart-Support-Engineer#readme"
+}
